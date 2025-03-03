@@ -1,10 +1,5 @@
 let b=44545;
 
-let a-23;
-let0eewe=545
-let efdf=335353;
-rwewffg
-gvfdgfdg
 
 
 let partnerPageId = document.querySelector(".page-id-292");
