@@ -7,3 +7,4 @@ let sum = a + b + c;
 console.log("sum of 2 number is :", sum);
 
 
+let allIs ="asdfdf";
