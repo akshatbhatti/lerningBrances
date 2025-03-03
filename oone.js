@@ -1,8 +1,4 @@
 let b=44545;
-let a=25;
-let sum=a+b;
-
-console.log(sum);
 
 let a-23;
 let0eewe=545
